@@ -7,3 +7,10 @@ The goal of this project is to automate the deployment process using various Dev
 - **Gitlab**: For CI/CD pipeline.
 - **Terraform**: For managing infrastructure.
 -  **Argocd** : GitOps-based continuous delivery tool for Kubernetes.
+-  Monitoring (Prometheus and VictoriaMetrics)
+- **Logging** (Loki)
+- **Alerting** (alertmanager and Grafana) 
+- **Backup & Restore** (Velero and Minio) 
+- **DRP strategy** (procedure)
+- **Traffic ingress** edge to the cluster (Ingress and cert-manager)
+
